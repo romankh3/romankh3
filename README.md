@@ -54,3 +54,8 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
         <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
     </a>
 </div>
+
+### How to write resume like it
+I always wants to share my experience, what's why I wrote post about writing resume on GitHub. This post is available on english and russian versions:
+*   EN: [Writing a resume on GitHub. A short guide](https://codegym.cc/groups/posts/589-writing-a-resume-on-github-a-short-guide)
+*   RU: [Пишем резюме на GitHub. Краткий гайд](https://javarush.ru/groups/posts/3424-pishem-rezjume-na-github)
