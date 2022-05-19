@@ -23,6 +23,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Write posts about software development.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
 
 ## 🛠 Technical Stack
 *   Java/Kotlin/Groovy/COBOL languages
