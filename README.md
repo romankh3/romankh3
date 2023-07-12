@@ -7,22 +7,10 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 <a href="https://github.com/romankh3/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact" /></a>
  </p>
 
-<p align='center'>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/romankh3/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
- <p align='center'>
-  📫  How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
-</p>
-
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
 *   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
 *   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 *   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
 
 ## 🛠 Technical Stack
