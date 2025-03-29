@@ -1,6 +1,6 @@
 # Hi, I'm Roman 👋
-Senior Software Engineer with more than 6 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+Senior Software Engineer with more than 9 years of commertial experience. I have excellent knowledge in backend development on Java.
+In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source. 
 
 <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true" /></a>
@@ -9,7 +9,7 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 
 ### Key points
 *   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
+*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities and thinks about software development.
 *   Write posts about software development.
 *   Improving my algorithms skiils on [leetcode](https://leetcode.com/romankh3/)
 
